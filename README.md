@@ -1,2 +1,2 @@
-# tutorials
-A collection of various information for tutorials
+# Tutorials
+A collection of various information for tutorials.
