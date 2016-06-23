@@ -2,6 +2,7 @@
 A collection of links on how to use Adobe InDesign based on what I need at the moment.
 
 ## Working with Text
+[Create text and text frames in Adobe InDesign](https://helpx.adobe.com/indesign/using/creating-text-text-frames.html)
 [Thread text among frames in Adobe InDesign](https://helpx.adobe.com/indesign/using/threading-text.html)
 
 ## Design and Format
